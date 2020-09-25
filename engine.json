@@ -1,0 +1,13 @@
+{
+    "mongo" :
+    {
+        "Bool" : false,
+        "Int" : 1,
+        "Double":12.000001,
+        "String" : "this is a string",
+        "BoolArray" : [false, false, false, false],
+        "IntArray" : [10, 20, 30],
+        "DoubleArray" : [1.0, 2.0, 3.0],
+        "StringArray" : ["one", "two", "three"]
+    }
+}
